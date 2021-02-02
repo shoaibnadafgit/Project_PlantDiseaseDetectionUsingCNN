@@ -1,0 +1,4 @@
+Python 3 or greater, 
+Tensorflow 2, 
+Flask, 
+Gevent
