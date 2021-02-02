@@ -41,7 +41,7 @@ tensorflow-gpu
 ## Model : 
 Our model takes raw images as an input, so we used CNNs (Convolutional Nural Networks) to extract features
 
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param   
 =================================================================
 conv2d_31 (Conv2D)           (None, 252, 252, 32)      2432      
 _________________________________________________________________
